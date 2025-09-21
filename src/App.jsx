@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const App = () =>{
 
-const [user, setchangeUser] = useState("Anil Kumar")
+const [user, setchangeUser] = useState("Kushwaha ji")
 const [num, setNum] = useState(0)
 
 const changeUser = () =>{
