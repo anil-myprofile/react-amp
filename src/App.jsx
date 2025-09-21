@@ -9,10 +9,14 @@ const changeUser = () =>{
   console.log("Done")
   setchangeUser("Rahul Sharma")
 }
+const changeUser = () =>{
+  console.log("Done")
+  setchangeUser("Babita Bhabhi"
+}
   return(
     <div>
       <h1>UserName is {user}</h1>
-      <button onClick={changeUser}>Change User</button>
+      <button onClick={changeUser}>Change User Name</button>
 
 
       <h3>Number is {num}</h3>
