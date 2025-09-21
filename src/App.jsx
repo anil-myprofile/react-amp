@@ -8,9 +8,6 @@ const [num, setNum] = useState(0)
 const changeUser = () =>{
   console.log("Done")
   setchangeUser("Rahul Sharma")
-}
-const changeUser1 = () =>{
-  console.log("Done")
   setchangeUser("Babita Bhabhi")
 }
   return(
