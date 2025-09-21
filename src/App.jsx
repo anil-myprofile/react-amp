@@ -16,7 +16,7 @@ const changeUser = () =>{
   return(
     <div>
       <h1>UserName is {user}</h1>
-      <button onClick={changeUser}>Change User Name</button>
+      <button onClick={changeUser}>Change User</button>
 
 
       <h3>Number is {num}</h3>
